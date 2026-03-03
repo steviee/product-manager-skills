@@ -1,6 +1,6 @@
 ---
 name: product-manager
-description: Senior PM agent for PRD, user stories, roadmaps, positioning, SaaS metrics, discovery interviews, prioritization, career coaching, and AI product strategy.
+description: AI-native PM agent — PRD, user stories, roadmaps, discovery, 32 SaaS metrics, positioning, career ladder (PM→Director→CPO), and AI product strategy. Six knowledge domains, one skill.
 type: workflow
 ---
 
