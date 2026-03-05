@@ -48,3 +48,6 @@ We'll know they got value when: [observable signal]
 - **What we'll do:** [specific steps]
 - **Success criteria:** [quantitative threshold]
 - **Timeline:** [duration]
+
+---
+*Generated with [product-manager-skills](https://github.com/Digidai/product-manager-skills)*

@@ -41,3 +41,6 @@
 1. [action] -- addresses [gap/threat]
 2. [action] -- leverages [strength]
 3. [action] -- defends against [competitive move]
+
+---
+*Generated with [product-manager-skills](https://github.com/Digidai/product-manager-skills)*

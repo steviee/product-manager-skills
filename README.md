@@ -2,9 +2,10 @@
 
 **Not a template pack -- a PM brain.** One install gives you 6 knowledge domains, 30+ frameworks, 12 templates, and an agent that pushes back when your thinking is sloppy.
 
-[![Version](https://img.shields.io/badge/version-0.2.0-blue)](https://clawhub.ai/Digidai/product-manager-skills)
+[![Version](https://img.shields.io/badge/version-0.2.1-blue)](https://clawhub.ai/Digidai/product-manager-skills)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](LICENSE)
 [![Security](https://img.shields.io/badge/security-zero%20scripts%2C%20pure%20markdown-brightgreen)]()
+[![Works With](https://img.shields.io/badge/works%20with-Claude%20Code%20%7C%20Cursor%20%7C%20Windsurf%20%7C%20Codex-purple)]()
 
 > Zero scripts. Zero dependencies. Zero network calls. Pure Markdown knowledge -- inspect every line before you install.
 
@@ -197,10 +198,17 @@ The agent actively flags bad PM practice:
 clawhub install product-manager-skills
 ```
 
+### Cursor / Windsurf / Codex / Any AI Coding Tool
+```bash
+npx skills add Digidai/product-manager-skills
+```
+
 ### Claude Projects
 Upload `SKILL.md` plus the `knowledge/` and `templates/` folders to your project knowledge.
 
 ### Any LLM
+Point your system prompt at `SKILL.md`. It loads knowledge modules and templates on demand via relative paths.
+
 Point your system prompt at `SKILL.md`. It loads knowledge modules and templates on demand via relative paths.
 
 ---
